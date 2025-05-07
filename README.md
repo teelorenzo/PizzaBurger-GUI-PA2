@@ -1,5 +1,5 @@
 # PizzaBurger-GUI-PA2 Antonio Goings
-To run the program:
+``` To run the program: ``` 
 # Open terminal
 - Navigate to project folder: cd PizzaBurger
 - Run with Maven: mvn clean javafx:run
